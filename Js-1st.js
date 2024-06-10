@@ -4,4 +4,5 @@ let accountName="Nikhil"
 let accountType 
 
 console.table([accountId,accountName,accountType])
+ 
 
